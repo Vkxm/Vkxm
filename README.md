@@ -1,6 +1,6 @@
 ## Vikash Kumar
 
-🌍 India, Kanpur  
+🌍 India  
 👨🏻‍💻 Backend Software Engineer | Linux Enthusiast  
 🔧 Javascript | nodejs |mondodb | SQL  
 🐧 Passionate about Linux and open-source technologies  
