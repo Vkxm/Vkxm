@@ -2,7 +2,7 @@
 
 🌍 India  
 👨🏻‍💻 Backend Software Engineer | Linux Enthusiast  
-🔧 Javascript | nodejs |mondodb | SQL  
+🔧 Javascript | nodejs | mongodb | SQL  
 🐧 Passionate about Linux and open-source technologies  
 🌱 Exploring DevOps practices and containerization with Docker  
 📚 Interested in distributed systems and cloud-native architectures  
