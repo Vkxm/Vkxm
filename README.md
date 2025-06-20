@@ -1,10 +1,9 @@
 ## Vikash Kumar
 
 🌍 India  
-👨🏻‍💻 Backend Software Engineer | Linux Enthusiast  
-🔧 Javascript | nodejs | mongodb | SQL  
+👨🏻‍💻 Aspiring Backend Software Engineer | Linux Enthusiast  
+🔧 C# | nodejs | Dotnet | SQL  
 🐧 Passionate about Linux and open-source technologies  
-🌱 Exploring DevOps practices and containerization with Docker  
-📚 Interested in distributed systems and cloud-native architectures  
+🌱 Exploring ASP.NET and other backend technology   
 📫 Email: vikashkumar244@outlook.com  
-🐦 Twitter: [@vikashkumar244](https://twitter.com/vikashkumar244)
+🐦 X/Twitter: [@vikashkumar244](https://twitter.com/vikashkumar244)
