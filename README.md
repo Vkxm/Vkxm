@@ -2,7 +2,7 @@
 <h3 align="center">Fresher | Data Analyst | Turning Raw Data into Actionable Stories</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&vCenter=true&width=435&lines=Data+Analyst+Fresher;SQL+%7C+Python+%7C+Tableau;3+Portfolio+Projects+Ready;Open+to+Entry-Level+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&vCenter=true&width=435&lines=Data+Analyst+Fresher;SQL+%7C+Python+%7C+Tableau;Open+to+Entry-Level+Opportunities" alt="Typing SVG" />
 </p>
 
 ---
